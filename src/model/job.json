@@ -1,0 +1,142 @@
+{
+    "classes": {
+        "tank": [
+            {
+                "id": 1,
+                "classe": "Paladin"
+            },
+            {
+                "id": 2,
+                "classe": "Guerrier"
+            },
+            {
+                "id": 3,
+                "classe": "Chevalier Noir"
+            },
+            {
+                "id": 4,
+                "classe": "Pistosabreur"
+            }
+        ],
+        "healer": [
+            {
+                "id": 1,
+                "classe": "Mage Blanc"
+            },
+            {
+                "id": 2,
+                "classe": "Scholar"
+            },
+            {
+                "id": 3,
+                "classe": "Astromancien"
+            },
+            {
+                "id": 4,
+                "classe": "Sage"
+            }
+        ],
+        "dpsContact": [
+            {
+                "id": 1,
+                "classe": "Moine"
+            },
+            {
+                "id": 2,
+                "classe": "Chevalier Dragon"
+            },
+            {
+                "id": 3,
+                "classe": "Ninja"
+            },
+            {
+                "id": 4,
+                "classe": "Samourai"
+            },
+            {
+                "id": 5,
+                "classe": "Faucheur"
+            }
+        ],
+        "dpsPhysiqueDistant": [
+            {
+                "id": 1,
+                "classe": "Barde"
+            },
+            {
+                "id": 2,
+                "classe": "Machiniste"
+            },
+            {
+                "id": 3,
+                "classe": "Danseur"
+            }
+        ],
+        "dpsMagiqueDistant": [
+            {
+                "id": 1,
+                "classe": "Mage Noir"
+            },
+            {
+                "id": 2,
+                "classe": "Invocateur"
+            },
+            {
+                "id": 3,
+                "classe": "Mage Rouge"
+            },
+            {
+                "id": 4,
+                "classe": "Mage Bleu"
+            }
+        ],
+        "crafteur": [
+            {
+                "id": 1,
+                "classe": "Menuisier"
+            },
+            {
+                "id": 2,
+                "classe": "Forgeron"
+            },
+            {
+                "id": 3,
+                "classe": "Armurier"
+            },
+            {
+                "id": 4,
+                "classe": "Orfèvre"
+            },
+            {
+                "id": 5,
+                "classe": "Tanneur"
+            },
+            {
+                "id": 6,
+                "classe": "Couturier"
+            },
+            {
+                "id": 7,
+                "classe": "Alchimiste"
+            },
+            {
+                "id": 8,
+                "classe": "Cuisinier"
+            }
+        ],
+        "recolteur": [
+            {
+                "id": 1,
+                "classe": "Mineur"
+            },
+            {
+                "id": 2,
+                "classe": "Botaniste"
+            },
+            {
+                "id": 3,
+                "classe": "Pêcheur"
+            }
+        ]
+    }
+}

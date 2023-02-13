@@ -26,7 +26,7 @@ Les routes utilisées sont dynamiques mais existent également en version static
 |/:categorie/:id |PUT | htpp://localhost:3000/dynamic/dpsPhysic/2 | Cette route permet de mettre à jour toutes les données d'un tableau dans un fichier par son Id| 
 |/:categorie/:id |Delete | htpp://localhost:3000/crafteur/5 | Cette route permet de supprimer les données d'une entrée d'un tableau dans un fichier par son Id| 
  
-##Liste des librairies utilisées
+### Liste des librairies utilisées
 | Librairie | Version | Raison | 
 |:-----|----|-----:|
 |Express |4.18.2 | Express sert de middleware pour manipuler les requêtes entrantes et les réponses courtes| 

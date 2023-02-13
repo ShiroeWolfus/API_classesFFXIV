@@ -64,7 +64,7 @@ http:localhost:3000/tank/Chevalier Noir
 ````
 http:localhost:3000/dynamic/healer/Mage Blanc
 ````
-### Routes pour les chemin static
+### Routes pour les chemins statics
 * Tank
 `````
 http:localhost:3000/tank
